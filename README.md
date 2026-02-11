@@ -580,7 +580,7 @@ be a "Form" & "Input".
         <td>10:30am-11:00pm</td>
     </tr>
 </table>
-      <img src="img/DD068BBD-6FA6-4883-8FD2-155087AB0C75.jpeg" 
+      <img src="IMG_7369](https://github.com/user-attachments/assets/eb538c47-c9b4-415e-87f3-f3ea7a154f28"
      width="1200" 
      height="686" 
      alt="Freddy's Restaurant"
